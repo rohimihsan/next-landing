@@ -19,7 +19,7 @@ const Main = () => {
                     </Col>
                     <Col lg={6}>
                         <div className="mt-5 mt-lg-0">
-                            <Img width='80%' src="/images/main-img.png" alt="" className="img-fluid mx-auto d-block" />
+                            <Img width={600} height={450} src="/images/main-img.png" alt="" className="img-fluid mx-auto d-block" />
                         </div>
                     </Col>
                 </Row>
